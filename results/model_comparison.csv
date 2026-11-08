@@ -1,0 +1,4 @@
+modelo,f1_macro_cv,f1_macro_cv_std,accuracy_test,f1_macro_test
+Gradient Boosting,0.663,0.012,0.714,0.694
+Random Forest,0.655,0.019,0.704,0.681
+Regresión logística (baseline),0.563,0.012,0.593,0.559

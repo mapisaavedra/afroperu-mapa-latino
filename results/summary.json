@@ -1,0 +1,45 @@
+{
+  "n_afroperuano": 65,
+  "n_control": 28,
+  "dist_mediana_ref": 1.2163630538641947,
+  "dist_mediana_afro": 1.628073443795651,
+  "dist_mediana_control": 1.218818110799807,
+  "pct_afro_mas_raras_que_80pct_ref": 0.5230769230769231,
+  "genero_modelo_afro": {
+    "mpb": 0.338,
+    "salsa": 0.262,
+    "reggaeton": 0.169,
+    "tango": 0.138,
+    "sertanejo": 0.031,
+    "pagode": 0.031,
+    "samba": 0.015,
+    "forro": 0.015
+  },
+  "genero_vecinos_afro": {
+    "salsa": 0.338,
+    "mpb": 0.231,
+    "reggaeton": 0.2,
+    "tango": 0.185,
+    "forro": 0.031,
+    "sertanejo": 0.015
+  },
+  "acuerdo_modelo_vecinos_afro": 0.6923076923076923,
+  "afro_por_remix": {
+    "false": {
+      "salsa": 0.3,
+      "mpb": 0.28,
+      "reggaeton": 0.17,
+      "tango": 0.15,
+      "sertanejo": 0.04,
+      "pagode": 0.04,
+      "samba": 0.02,
+      "forro": 0.02
+    },
+    "true": {
+      "mpb": 0.64,
+      "reggaeton": 0.18,
+      "salsa": 0.09,
+      "tango": 0.09
+    }
+  }
+}
